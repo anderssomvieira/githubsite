@@ -1,7 +1,7 @@
 # easy-portfolio
 Hello! My name is Anderson Vieira, I created a simple website using just HTML and CSS! 
 You can see the video [here](https://www.youtube.com/@anderssomvieira)
-You can see the webpage [here](https://github.com/thesonsong)
+You can see the webpage [here](https://github.com/anderssomvieira)
 Hope you enjoy it!
 
 ## Start
